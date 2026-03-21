@@ -1,2 +1,3 @@
-# advanced-code-reviewer-0x57
-A automated code review tool for modern development workflows
+# Advanced Code Reviewer 0X57
+
+A automated code review tool for modern development workflows.
